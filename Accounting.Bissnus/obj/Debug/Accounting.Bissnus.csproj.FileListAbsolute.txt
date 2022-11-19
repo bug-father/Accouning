@@ -1,0 +1,5 @@
+C:\Users\milad\source\repos\Accounting\Accounting.Bissnus\bin\Debug\Accounting.Bissnus.dll
+C:\Users\milad\source\repos\Accounting\Accounting.Bissnus\bin\Debug\Accounting.Bissnus.pdb
+C:\Users\milad\source\repos\Accounting\Accounting.Bissnus\obj\Debug\Accounting.Bissnus.csproj.CoreCompileInputs.cache
+C:\Users\milad\source\repos\Accounting\Accounting.Bissnus\obj\Debug\Accounting.Bissnus.dll
+C:\Users\milad\source\repos\Accounting\Accounting.Bissnus\obj\Debug\Accounting.Bissnus.pdb

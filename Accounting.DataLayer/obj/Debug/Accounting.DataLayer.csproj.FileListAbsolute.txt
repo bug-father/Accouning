@@ -1,0 +1,23 @@
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+C:\Users\milad\source\repos\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+G:\project finall\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+G:\project finall\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+G:\project finall\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+G:\project finall\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+G:\project finall\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\project finall\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+G:\project finall\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\project finall\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+G:\project finall\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+G:\project finall\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+G:\project finall\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+G:\project finall\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb

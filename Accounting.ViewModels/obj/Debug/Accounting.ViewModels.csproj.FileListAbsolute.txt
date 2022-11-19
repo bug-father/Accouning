@@ -1,0 +1,11 @@
+C:\Users\milad\source\repos\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\milad\source\repos\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\milad\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\milad\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\milad\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+G:\project finall\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+G:\project finall\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+G:\project finall\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+G:\project finall\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+G:\project finall\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+G:\project finall\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb

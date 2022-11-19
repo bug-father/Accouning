@@ -1,0 +1,12 @@
+C:\Users\milad\source\repos\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\Users\milad\source\repos\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\Users\milad\source\repos\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\Users\milad\source\repos\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\Users\milad\source\repos\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+C:\Users\milad\source\repos\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+G:\project finall\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+G:\project finall\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+G:\project finall\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+G:\project finall\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+G:\project finall\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+G:\project finall\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
